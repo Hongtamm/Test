@@ -9,6 +9,6 @@ public class BuiThiHong {
         for (int i = 1; i <= n; ++i) {
             sum += i;
         }
-        System.out.println("Tổng các số tự nhiên từ 1 đến " + n + " là: " + sum);
+        System.out.println("Tổng các số tự nhiên từ 1 đến " + n + " là *: " + sum);
     }
 }
